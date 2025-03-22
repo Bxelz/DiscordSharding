@@ -13,7 +13,7 @@ A simple and beginner-friendly guide on how to set up Discord.js sharding using 
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/Bxelz/Discord-Sharding.git
+git clone https://github.com/Bxelz/DiscordSharding.git
 ```
 
 ### 2️⃣ Install Dependencies
@@ -40,11 +40,11 @@ node Shards.js
 This will automatically handle multiple shards based on Discord’s recommendations.
 
 ## 🔧 Handling Shard Events
-The `Shards.js` file also includes event listeners for better monitoring:
+The `Shards.js` file includes event listeners for better monitoring.
 
 ---
 
 ⭐ Star the repo if this helped you!
 
-📌 **Repo:** [Bxelz/Discord-Sharding](https://github.com/Bxelz/Discord-Sharding)
+📌 **Repo:** [Bxelz/DiscordSharding](https://github.com/Bxelz/DiscordSharding)
 
